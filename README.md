@@ -18,6 +18,7 @@
 - ⚽️ Fun fact: I've been playing soccer since I was 3 years old.
 - 💻 I love learning `Computer Science`.
 - 🪐 I love learning `Astronomy`. 
+- 📌 Working at Google is my Dream Job.
 
 <!--
 **officialgio/officialgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
