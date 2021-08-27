@@ -14,7 +14,7 @@
 ### About me 
 
 - 🧑🏽‍💻 Currently a Student at [Northeastern Illinois University](https://www.neiu.edu/)
-- 🌱 Currently self-teaching `Web Development` and Programming 1 in <b>Java</b>. 
+- 🌱 Currently self-teaching `Web Development` and Programming 1 in `Java`.
 - ⚽️ Fun fact: I've been playing soccer since I was 3 years old.
 - 💻 I love learning `Computer Science`.
 - 🪐 I love learning `Astronomy`. 
