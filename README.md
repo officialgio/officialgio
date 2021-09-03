@@ -21,7 +21,7 @@
 - 📌 Working at Google is my Dream Job.
 
 
-## 👨🏻‍💻 My Languages/Tools:
+## 🧑🏽‍💻 My Languages/Tools:
 <div>
 <p align="center">
 <img src="https://github.com/officialgio/officialgio/blob/main/officialgio/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
