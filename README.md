@@ -24,7 +24,7 @@
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p align="center">
-<img src="https://github.com/officialgio/officialgio/blob/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
+<img src="https://github.com/officialgio/officialgio/blob/main/officialgio/Misc/image%20backups/homeycombs/JAVA.png" alt="JAVA" width="57" height="55"/> 
 <img src="https://github.com/officialgio/officialgio/blob/master/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="57" height="55"/> 
 <img src="https://github.com/officialgio/officialgio/blob/master/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="57" height="55"/> 
 <img src="https://github.com/officialgio/officialgio/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
