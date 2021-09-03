@@ -4,9 +4,7 @@
 
 <p align='center'> 
 <a href = https://www.linkedin.com/in/giovanny-hernandez-738ab81b8/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-
-src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/gioohdzz/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href = "mailto:officialgio121@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 
 
 <div align="center">
