@@ -18,7 +18,7 @@
 let user = you;
 
 if (user == understand.this) {
-  console.log("Hi, I'm, GIovanny!");
+  console.log("Hi, I'm GIovanny!");
 }
 ```
 
