@@ -11,6 +11,16 @@
 <h3> 👦🏽 Giovanny Hernandez | 💻 Aspring Software Engineer | 🌏 Chicago, IL </h3> 
 </div>
 
+## Getting Started
+
+```js
+
+if (you === understand.this {
+  console.log("Hi, I'm, GIovanny!");
+}
+```
+
+
 ### About me 
 
 - 🧑🏽‍💻 Currently a Student at [Northeastern Illinois University](https://www.neiu.edu/)
