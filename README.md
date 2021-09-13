@@ -15,7 +15,7 @@
 
 ```js
 
-if (you === understand.this {
+if (you == understand.this {
   console.log("Hi, I'm, GIovanny!");
 }
 ```
