@@ -15,8 +15,9 @@
 
 ```js
 
-let user = you
-if (user == understand.this {
+let user = you;
+
+if (user == understand.this) {
   console.log("Hi, I'm, GIovanny!");
 }
 ```
