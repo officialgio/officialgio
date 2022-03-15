@@ -30,7 +30,7 @@ if (user == understand.this) {
 - ⚽️ Fun fact: I've been playing soccer since I was 3 years old.
 - 💻 I love learning `Computer Science`.
 - 🪐 I love learning `Astronomy`. 
-- 📌 Incoming Microsoft Explorer Intern 
+- 📌 Incoming Microsoft Intern 
 
 
 ## 🧑🏽‍💻 My Languages/Tools:
