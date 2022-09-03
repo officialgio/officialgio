@@ -26,11 +26,9 @@ if (user == understand.this) {
 ### About me 
 
 - 🧑🏽‍💻 Currently a Student at [Northeastern Illinois University](https://www.neiu.edu/)
-- 🌱 Currently self-teaching `Web Development` and Programming in `Java` / `C#/.NET`.
-- ⚽️ Fun fact: I've been playing soccer since I was 3 years old.
-- 💻 I love learning `Computer Science`.
-- 🪐 I love learning `Astronomy`. 
-- 📌 Incoming Microsoft Intern 
+- 🌱 My interests are on Web Development, Full Stack Development, or IOS Development.
+- ⚽️ Currently Seeking for Academy, Club, or College Soccer Oppurtunities.
+- 📌 Microsoft Intern
 
 
 ## 🧑🏽‍💻 My Languages/Tools:
