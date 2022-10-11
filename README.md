@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h3> 👦🏽 Giovanny Hernandez | 💻 Aspring Software Engineer | 🌏 Chicago, IL </h3> 
+<h3> 💻 Aspring Software Engineer | 🌏 Chicago, IL </h3> 
 </div>
 
 ## Getting Started
