@@ -27,7 +27,7 @@ if (user == understand.this) {
 
 - a student at [Northeastern Illinois University](https://www.neiu.edu/)
 - learning Frontend Development and Fullstack Development. 💻
-- playing competitive soccer at my local area ⚽️
+- playing competitive soccer at my local area. ⚽️
 
 
 <!--## 🧑🏽‍💻 My Languages/Tools:
