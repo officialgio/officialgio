@@ -25,7 +25,7 @@ if (user == understand.this) {
 
 ### Currently I'm...
 
-- a Student at [Northeastern Illinois University](https://www.neiu.edu/)
+- a student at [Northeastern Illinois University](https://www.neiu.edu/)
 - learning Frontend Development and Fullstack Development. 💻
 - playing competitive soccer at my local area ⚽️
 
