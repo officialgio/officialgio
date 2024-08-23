@@ -13,13 +13,44 @@
 
 ## Getting Started
 
-```js
+```ts
+class Person {
+  private readonly m_student: Student;
+  private readonly m_workExperience: WorkExperience;
+  private readonly m_interests: Interest;
 
-let user = you;
-
-if (user == understand.this) {
-  console.log("Hi, I'm GIovanny!");
+  constructor(
+    student: Student,
+    workExperience: WorkExperience,
+    interest: Interest
+  ) {
+    this.m_student = student;
+    this.m_workExperience = workExperience;
+    this.m_interests = interest;
+  }
 }
+
+const me = new Person(
+  new Student("Giovanny Hernandez", "Northeastern Illinois University", 2025),
+  new WorkExperience([
+    {
+      name: "Microsoft",
+      role: "Software Engineer",
+      term: "Summer 2024",
+    },
+    {
+      name: "Microsoft",
+      role: "Software Engineer",
+      term: "Summer 2023",
+    },
+    {
+      name: "Microsoft",
+      role: "Software Engineer",
+      term: "Summer 2022",
+    },
+  ]),
+  new Interest(["Fullstack Development", "Distributed Systems", "UI/UX"])
+);
 ```
 
 
