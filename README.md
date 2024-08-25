@@ -14,22 +14,6 @@
 ## Getting Started
 
 ```ts
-class Person {
-  private readonly m_student: Student;
-  private readonly m_workExperience: WorkExperience;
-  private readonly m_interests: Interest;
-
-  constructor(
-    student: Student,
-    workExperience: WorkExperience,
-    interest: Interest
-  ) {
-    this.m_student = student;
-    this.m_workExperience = workExperience;
-    this.m_interests = interest;
-  }
-}
-
 const me = new Person(
   new Student("Giovanny Hernandez", "Northeastern Illinois University", 2025),
   new WorkExperience([
