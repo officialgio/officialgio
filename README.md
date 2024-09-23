@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<h3> 💻 Aspring Software Engineer | 🌏 Chicago, IL </h3> 
+<h3> 💻 Software Engineer | 🌏 Chicago, IL </h3> 
 </div>
 
 ## Getting Started
@@ -36,13 +36,6 @@ const me = new Person(
   new Interest(["Fullstack Development", "Distributed Systems", "UI/UX"])
 );
 ```
-
-
-### Currently I'm...
-
-- a student at [Northeastern Illinois University](https://www.neiu.edu/)
-- building some cool stuff...
-
 
 <!--## 🧑🏽‍💻 My Languages/Tools:
 <div>
