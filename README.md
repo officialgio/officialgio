@@ -14,27 +14,40 @@
 ## Getting Started
 
 ```ts
-const me = new Person(
-  new Student("Giovanny Hernandez", "Northeastern Illinois University", 2025),
-  new WorkExperience([
+type Person = {
+  [k: string]: string | number | WorkExperience[];
+  workExperience: WorkExperience[];
+};
+
+const me = {
+  name: "Giovanny Hernandez",
+  age: 21,
+  education: "Northeastern Illinois University",
+  work: "Software Engineer",
+  company: "Microsoft",
+  workExperience: [
     {
       name: "Microsoft",
       role: "Software Engineer",
+      term: "Current",
+    },
+    {
+      name: "Microsoft",
+      role: "Software Engineer Intern",
       term: "Summer 2024",
     },
     {
       name: "Microsoft",
-      role: "Software Engineer",
+      role: "Software Engineer Intern",
       term: "Summer 2023",
     },
     {
       name: "Microsoft",
-      role: "Software Engineer",
+      role: "Software Engineer & PM Intern",
       term: "Summer 2022",
     },
-  ]),
-  new Interest(["Fullstack Development", "Distributed Systems", "UI/UX"])
-);
+  ],
+} as Person;
 ```
 
 <!--## 🧑🏽‍💻 My Languages/Tools:
