@@ -8,47 +8,10 @@
 
 
 <div align="center">
-<h3> 💻 Software Engineer | 🌏 Chicago, IL </h3> 
+<h3> 💻 Software Engineer @ Microsoft | 🌏 Chicago, IL </h3> 
 </div>
 
-## Getting Started
 
-```ts
-type Person = {
-  [k: string]: string | number | WorkExperience[];
-  workExperience: WorkExperience[];
-};
-
-const me = {
-  name: "Giovanny Hernandez",
-  age: 21,
-  education: "Northeastern Illinois University",
-  work: "Software Engineer",
-  company: "Microsoft",
-  workExperience: [
-    {
-      name: "Microsoft",
-      role: "Software Engineer",
-      term: "Current",
-    },
-    {
-      name: "Microsoft",
-      role: "Software Engineer Intern",
-      term: "Summer 2024",
-    },
-    {
-      name: "Microsoft",
-      role: "Software Engineer Intern",
-      term: "Summer 2023",
-    },
-    {
-      name: "Microsoft",
-      role: "Software Engineer & PM Intern",
-      term: "Summer 2022",
-    },
-  ],
-} as Person;
-```
 
 <!--## 🧑🏽‍💻 My Languages/Tools:
 <div>
